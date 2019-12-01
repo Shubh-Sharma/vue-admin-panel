@@ -9,8 +9,12 @@
   },
   "dependencies": {
     "animate.css": "^3.7.0",
+    "apexcharts": "^3.10.1",
     "core-js": "^2.6.5",
+    "gotrue-js": "^0.9.25",
+    "netlify-identity-widget": "^1.5.5",
     "vue": "^2.6.6",
+    "vue-apexcharts": "^1.5.1",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
